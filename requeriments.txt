@@ -1,0 +1,8 @@
+matplotlib==3.6.2
+seaborn==0.12.2
+pandas==1.5.2
+numpy==1.25.1
+scikit-learn==1.2.0
+folium==0.14.0
+jupyterlab==3.5.2
+ydata-profiling==4.1.1
